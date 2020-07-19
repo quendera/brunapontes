@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bruna pontes</title>
+    <link>http://www.example.com/urban_mapping/</link>
+    <description>Recent content on bruna pontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Sep 2017 14:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/urban_mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cg_lines</title>
+      <link>http://www.example.com/urban_mapping/cg_lines/</link>
+      <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/urban_mapping/cg_lines/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>escadinha</title>
+      <link>http://www.example.com/urban_mapping/escadinha/</link>
+      <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/urban_mapping/escadinha/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>hybrid space</title>
+      <link>http://www.example.com/urban_mapping/hybrid_space/</link>
+      <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/urban_mapping/hybrid_space/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>mercados alternativos</title>
+      <link>http://www.example.com/urban_mapping/mercados_alternativos/</link>
+      <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
+      
+      <guid>http://www.example.com/urban_mapping/mercados_alternativos/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
