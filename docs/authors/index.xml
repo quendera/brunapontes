@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on bruna pontes</title>
-    <link>http://www.example.com/authors/</link>
+    <link>https://quendera.github.io/brunapontes/authors/</link>
     <description>Recent content in Authors on bruna pontes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quendera.github.io/brunapontes/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>muniftanjim</title>
-      <link>http://www.example.com/authors/muniftanjim/</link>
+      <link>https://quendera.github.io/brunapontes/authors/muniftanjim/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/authors/muniftanjim/</guid>
+      <guid>https://quendera.github.io/brunapontes/authors/muniftanjim/</guid>
       <description></description>
     </item>
     

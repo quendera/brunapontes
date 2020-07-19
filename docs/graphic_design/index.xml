@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bruna pontes</title>
-    <link>http://www.example.com/graphic_design/</link>
+    <link>https://quendera.github.io/brunapontes/graphic_design/</link>
     <description>Recent content on bruna pontes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Sep 2017 14:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/graphic_design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quendera.github.io/brunapontes/graphic_design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bbbbbb</title>
-      <link>http://www.example.com/graphic_design/cover-image/</link>
+      <link>https://quendera.github.io/brunapontes/graphic_design/cover-image/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/graphic_design/cover-image/</guid>
+      <guid>https://quendera.github.io/brunapontes/graphic_design/cover-image/</guid>
       <description></description>
     </item>
     

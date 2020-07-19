@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on bruna pontes</title>
-    <link>http://www.example.com/</link>
+    <link>https://quendera.github.io/brunapontes/</link>
     <description>Recent content in home on bruna pontes</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Sep 2017 14:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quendera.github.io/brunapontes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>about</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://quendera.github.io/brunapontes/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://quendera.github.io/brunapontes/about/</guid>
       <description>diagramming the city</description>
     </item>
     
     <item>
       <title>Typography</title>
-      <link>http://www.example.com/typography/</link>
+      <link>https://quendera.github.io/brunapontes/typography/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/typography/</guid>
+      <guid>https://quendera.github.io/brunapontes/typography/</guid>
       <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 4  First item Second item   Nested unordered item  Third item Nested ordered item 1 Nested ordered item 2  Heading 5 Where are the quotes!</description>
@@ -32,73 +32,73 @@ Heading 4  First item Second item   Nested unordered item  Third item Nested ord
     
     <item>
       <title>bbbbbb</title>
-      <link>http://www.example.com/graphic_design/cover-image/</link>
+      <link>https://quendera.github.io/brunapontes/graphic_design/cover-image/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/graphic_design/cover-image/</guid>
+      <guid>https://quendera.github.io/brunapontes/graphic_design/cover-image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cg_lines</title>
-      <link>http://www.example.com/urban_mapping/cg_lines/</link>
+      <link>https://quendera.github.io/brunapontes/urban_mapping/cg_lines/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/urban_mapping/cg_lines/</guid>
+      <guid>https://quendera.github.io/brunapontes/urban_mapping/cg_lines/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>escadinha</title>
-      <link>http://www.example.com/urban_mapping/escadinha/</link>
+      <link>https://quendera.github.io/brunapontes/urban_mapping/escadinha/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/urban_mapping/escadinha/</guid>
+      <guid>https://quendera.github.io/brunapontes/urban_mapping/escadinha/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>hybrid space</title>
-      <link>http://www.example.com/urban_mapping/hybrid_space/</link>
+      <link>https://quendera.github.io/brunapontes/urban_mapping/hybrid_space/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/urban_mapping/hybrid_space/</guid>
+      <guid>https://quendera.github.io/brunapontes/urban_mapping/hybrid_space/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>mercados alternativos</title>
-      <link>http://www.example.com/urban_mapping/mercados_alternativos/</link>
+      <link>https://quendera.github.io/brunapontes/urban_mapping/mercados_alternativos/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/urban_mapping/mercados_alternativos/</guid>
+      <guid>https://quendera.github.io/brunapontes/urban_mapping/mercados_alternativos/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>red bench</title>
-      <link>http://www.example.com/architecture/red_bench/</link>
+      <link>https://quendera.github.io/brunapontes/architecture/red_bench/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/architecture/red_bench/</guid>
+      <guid>https://quendera.github.io/brunapontes/architecture/red_bench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>the train</title>
-      <link>http://www.example.com/architecture/the_train/</link>
+      <link>https://quendera.github.io/brunapontes/architecture/the_train/</link>
       <pubDate>Sat, 30 Sep 2017 14:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/architecture/the_train/</guid>
+      <guid>https://quendera.github.io/brunapontes/architecture/the_train/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://www.example.com/search/</link>
+      <link>https://quendera.github.io/brunapontes/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/search/</guid>
+      <guid>https://quendera.github.io/brunapontes/search/</guid>
       <description></description>
     </item>
     
